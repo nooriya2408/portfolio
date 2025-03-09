@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Front-End Developer",
+    "organisation": "Ecopez technology",
+    "startDate": "05,2023",
+    "endDate": "11,2023",
+    "experiences": ["Implemented state management (useState, useEffect) and integrated RESTful APIs.", "Used Axios/Fetch API for data fetching and applied sorting, filtering."],
+    "imageSrc": "history/icon.png"
+  },
+  {
+    "role": "MERN Stack Intern",
+    "organisation": " YouGetPlaced",
+    "startDate": "01, 2023",
+    "endDate": "05, 2023",
+    "experiences": ["Worked on a social media website with features like authentication, posts, likes, and friend management."],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "MERN Stack Training ",
+    "organisation": "NullClass",
+    "startDate": "06, 2022",
+    "endDate": "12, 2022",
+    "experiences": [
+      "Completed training on MongoDB, Express.js, React.js, and Node.js.",
+      "Built real-time projects receive course complete certificate."
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

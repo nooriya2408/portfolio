@@ -1,0 +1,34 @@
+[
+  {
+    "title": "E-commerce website",
+    "imageSrc": "projects/ecommerce.jpg",
+    "description": " front-end website to display products, product cart and login registration. we created the APIs to add product, display product, update product, update cart items and login registration API. We  also make the admin panel of our eCommerce website to add product, update product on our e-commerce website.",
+    "skills": ["MERN"],
+    "demo": "https://e-commerce-1-4e7k.onrender.com/",
+    "source": "https://github.com/nooriya2408/E-commerce"
+  },
+  {
+    "title": "Stack-overflow clone",
+    "imageSrc": "projects/stack-overflow.png",
+    "description": "Stack overflow clone project implemented features such as user authentication,creating and editing question and answer functionality and voting on posts.Developed a RESTful API and utilized Redux on state.",
+    "skills": ["MERN"],
+    "demo": "https://stack-overflow-sepia.vercel.app/",
+    "source": "https://github.com/nooriya2408/Stack-overflow"
+  },
+  {
+    "title": "Spotify clone",
+    "imageSrc": "projects/spotify-desktop.jpeg",
+    "description": "This is a project made to learn a music player website like Spotify. Where we can play audio songs online. On this music website we will add some music albums and multiple songs. We can play song online, and we will also create the song controller button. To build this website UI we will use Tailwind CSS.",
+    "skills": ["React","Tailwind css"],
+    "demo": "https://spotify-clone-tfmz.onrender.com/",
+    "source": "https://github.com/nooriya2408/spotify-clone"
+  },
+  {
+    "title": "Food delivery",
+    "imageSrc": "projects/food.jpeg",
+    "description":"Complete food ordering website / app using React JS, MongoDB, Express, Node JS and Stripe payment gateway. In this Full Stack Food delivery app project we will create the Frontend website, Admin Panel and Backend server. We will create the user authentication system so that anyone can create an account and login this food order website.",
+    "skills": ["MERN","Stripe"],
+    "demo": "https://food-delivery-frontend-final-vjy4.onrender.com",
+    "source": "https://github.com/nooriya2408/Food-delivery"
+  }
+]

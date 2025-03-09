@@ -1,0 +1,67 @@
+@import '../../vars.css';
+
+.container{
+    margin-top: 76px;
+    color: var(--color-text);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.title{
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+.projects{
+    margin-top: 37px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+}
+.carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .carouselContent {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .carouselItem {
+    min-width: 100%;
+    transition: opacity 0.5s ease-in-out;
+  }
+  .active {
+    opacity: 1;
+  }
+  
+  .inactive {
+    opacity: 0;
+  }
+  
+  .navButton {
+    background-color: transparent;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .navButton:first-of-type {
+    left: 10px;
+  }
+  
+  .navButton:last-of-type {
+    right: 10px;
+  }
