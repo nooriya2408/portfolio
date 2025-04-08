@@ -7,8 +7,9 @@ const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Nooriya</h1>
-            <p className={styles.description}>I am full stack developer with
-             1 year of experience using React,NodeJS,ExpressJS,MongoDB. Reach out if you'd like to learn more! </p>
+            <p className={styles.description}>Passionate MERN stack and React developer with one year of experience, crafting dynamic web applications. 
+              Started my tech journey after motherhood, turning dedication into impactful code.
+             Reach out if you'd like to learn more! </p>
             <a href='mailto:nooriya2408@gmail.com' className={styles.contactbtn}>Contact Me</a>
 
         </div>

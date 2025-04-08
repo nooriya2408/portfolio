@@ -1,10 +1,19 @@
 [
   {
+  "title": "LMS website",
+  "imageSrc": "projects/LMS.jpg",
+  "description": "I’ve completed the client-side of a full-stack LMS website using the MERN Stack.Educators can publish courses, and students can enroll and learn online. Implemented user authentication using Clerk for login, registration, and profiles.Integrated Clerk’s pre-built React components for a smooth user experience.",
+  "skills": ["React","Tailwind css"],
+  "demo": "https://lms-website-p69v.onrender.com/",
+  "source": "https://github.com/nooriya2408/LMS-website"
+},
+  {
     "title": "E-commerce website",
     "imageSrc": "projects/ecommerce.jpg",
     "description": " front-end website to display products, product cart and login registration. we created the APIs to add product, display product, update product, update cart items and login registration API. We  also make the admin panel of our eCommerce website to add product, update product on our e-commerce website.",
     "skills": ["MERN"],
     "demo": "https://e-commerce-1-4e7k.onrender.com/",
+    "adminDemo":"https://e-commerce-2-oosx.onrender.com/listproduct",
     "source": "https://github.com/nooriya2408/E-commerce"
   },
   {
@@ -29,6 +38,7 @@
     "description":"Complete food ordering website / app using React JS, MongoDB, Express, Node JS and Stripe payment gateway. In this Full Stack Food delivery app project we will create the Frontend website, Admin Panel and Backend server. We will create the user authentication system so that anyone can create an account and login this food order website.",
     "skills": ["MERN","Stripe"],
     "demo": "https://food-delivery-frontend-final-vjy4.onrender.com",
+    "adminDemo":"https://food-delivery-admin1-vxm8.onrender.com",
     "source": "https://github.com/nooriya2408/Food-delivery"
   }
 ]

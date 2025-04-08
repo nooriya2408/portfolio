@@ -4,7 +4,7 @@
     "organisation": "Ecopez technology",
     "startDate": "05,2023",
     "endDate": "11,2023",
-    "experiences": ["Implemented state management (useState, useEffect) and integrated RESTful APIs.", "Used Axios/Fetch API for data fetching and applied sorting, filtering."],
+    "experiences": ["Implemented state management (useState, useEffect) and integrated RESTful APIs.", "Used Axios/Fetch API for data fetching and applied sorting, filtering in school talkz project."],
     "imageSrc": "history/icon.png"
   },
   {

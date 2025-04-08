@@ -3,8 +3,8 @@ import projects from '../../data/projects.json'
 
 import ProjectCard from './ProjectCard'
 import styles from './Projects.module.css';
-//import less from '../../../assets/projects/less.png'
-//import greater from '../../../assets/projects/greater.png'
+
+
 import 'react-multi-carousel'
 
 

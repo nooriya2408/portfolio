@@ -3,7 +3,7 @@ import { getImageUrl} from '../../utils'
 import styles from './ProjectCard.module.css'
 
 const ProjectCard = ({ 
-    project:{title,description,imageSrc,skills,demo,source} }) => {
+    project:{title,description,imageSrc,skills,demo,adminDemo,source} }) => {
       const[isExpanded,setIsExpanded]=useState(false)
 
       const toggleDescription = () =>{
@@ -24,6 +24,14 @@ const ProjectCard = ({
 </ul>
 <div className={styles.links}>
     <a href={demo} className={styles.link}>Demo</a>
+  {adminDemo &&(
+    <a href={adminDemo} className={styles.link}>Admin demo</a>
+  )}
+       
+   
+   
+    </div>
+    <div className={styles.links}>
     <a href={source} className={styles.link}>Source</a>
     </div>
             </div>
